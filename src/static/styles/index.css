@@ -1,2 +1,5 @@
-html {
+#mapDIV {
+    height: 700px;
+    width: 700px;
+    border: solid 1px black;
 }
