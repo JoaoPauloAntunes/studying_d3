@@ -24,7 +24,7 @@ favorabilityMarker.bindPopup(`
 `);
 favorabilityMarker.addTo(map);	
 
-  var theMarkers = L.geoJSON(markers);
+var theMarkers = L.geoJSON(markers);
 theMarkers.addTo(map);
 
 /* 
